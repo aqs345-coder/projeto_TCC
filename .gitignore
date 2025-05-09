@@ -1,0 +1,53 @@
+# Python
+git_init.py
+git_init
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environments
+venv
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Logs
+*.log
+nohup.out
+
+# IDEs e Editores
+.vscode
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Dados Temporários e Resultados
+*.csv
+*.tsv
+*.dat
+*.db
+*.sqlite
+.DS_Store
+
+# Arquivos de saída do Jupyter
+*.nbconvert.ipynb
+git_init.py
+.vscode/launch.json
+.vscode/settings.json
